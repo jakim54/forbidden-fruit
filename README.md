@@ -16,19 +16,115 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 
 To be updated...
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- added spacers to test anchor
+
 ## Ideas, Concepts, and Projects
 
 To be updated...
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- added spacers to test anchor
+
 ## Recommended Books
 
 * Learn VIM: https://vim.swaroopch.com/preface.html
+* Learn Python: https://python.swaroopch.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- added spacers to test anchor
 
 ## Configuration Setups
 
 To be updated...
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- added spacers to test anchor
 ## TODO
 
 * Update this readme with anchor tags for improved navigation
 * Agree on semantics for consistency and ease of search
+* Remove this line along with all spacers when successful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- added spacers to test anchor
