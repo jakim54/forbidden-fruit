@@ -10,14 +10,16 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 2. [Ideas, Concepts, and Projects](#ideas-,-concepts-,-and-projects)
 3. [Recommended Books](#recommended-books)
 4. [Configuration Setups](#configuration-setups)
-5. [Tools](#tools)
-6. [Developers](#developers)
-7. [TODO](#todo)
-8. [Notes & Miscellaneous](#notes-&-miscellaneous)
+5. [Tutorials](*tutorials)
+6. [Tools](#tools)
+7. [Developers](#developers)
+8. [TODO](#todo)
+9. [Notes & Miscellaneous](#notes-&-miscellaneous)
 
 ## Docs, Articles, & Snippets
 
 * Hitchhiker's Guide to Python: http://docs.python-guide.org/en/latest/
+* Full Stack Python: https://www.fullstackpython.com/table-of-contents.html
 * uhub/aweome-python: https://github.com/uhub/awesome-python
 * vinta/awesome-python: https://github.com/vinta/awesome-python
 
@@ -35,6 +37,9 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 ## Configuration Setups
 
 To be updated...
+
+## Tutorials
+* VIM tutorials from fullstackpython.com: https://www.fullstackpython.com/vim.html
 
 ## Tools
 
