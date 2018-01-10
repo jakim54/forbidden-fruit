@@ -46,6 +46,7 @@ To be updated...
 
 ## TODO
 
+* Decide on whether to go with folders/subfolders structure for this repo or keep it as a reference point with snippets.
 * Agree on semantics for consistency and ease of search within this readme
 * Decide to either just post all links within an aggregated list and forego the source or post both the source and all subsequent links from within
 
