@@ -6,7 +6,7 @@ Knowledge drop of Python
 A shared, public repo for anyone to take a gander into my journey of learning Python. To be updated with useful resources pertaining to Python. Basically, a more descriptive awesome-insertLanguageName(python) list.
 
 ## Index
-1. [Articles & Snippets](#articles-&-snippets)
+1. [Docs, Articles, & Snippets](#docs-,-articles-,-&-snippets)
 2. [Ideas, Concepts, and Projects](#ideas-,-concepts-,-and-projects)
 3. [Recommended Books](#recommended-books)
 4. [Configuration Setups](#configuration-setups)
@@ -15,8 +15,9 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 7. [TODO](#todo)
 8. [Notes & Miscellaneous](#notes-&-miscellaneous)
 
-## Articles & Snippets
+## Docs, Articles, & Snippets
 
+* Hitchhiker's Guide to Python: http://docs.python-guide.org/en/latest/
 * uhub/aweome-python: https://github.com/uhub/awesome-python
 * vinta/awesome-python: https://github.com/vinta/awesome-python
 
