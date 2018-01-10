@@ -23,7 +23,7 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 ## Ideas, Concepts, and Projects
 
 * 2017's Amazing Python Projects: https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3
-* Full text serach in Django with PGSQL: http://www.paulox.net/2017/12/22/full-text-search-in-django-with-postgresql/
+* Full text search in Django with PGSQL: http://www.paulox.net/2017/12/22/full-text-search-in-django-with-postgresql/
 * Kivvy Projects | Android/iOS apps via Python: https://github.com/kivy/kivy/wiki/List-of-Kivy-Projects
 
 ## Recommended Books
