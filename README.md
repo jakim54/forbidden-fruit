@@ -40,9 +40,15 @@ To be updated...
 
 ## Tutorials
 * VIM tutorials from fullstackpython.com: https://www.fullstackpython.com/vim.html
+* Homebrew Cheatsheet: https://devhints.io/homebrew
+* Real Python Full-Stack Tutorials: https://realpython.com/blog/
 
 ## Tools
 
+* Homebrew: https://brew.sh/
+* iTerm2: https://www.iterm2.com/
+* Alfred: https://www.alfredapp.com/
+* Spectacle: https://www.spectacleapp.com/
 * Hatch | A modern project, package, and virtual environment manager for Python: https://github.com/ofek/hatch
 
 ## Developers
@@ -59,3 +65,4 @@ To be updated...
 ## Notes & Miscellaneous
 
 * Interesting collection of quotes from David Goodger: http://python.net/~goodger/personal/quotes.html
+* Homebrew will not/be unable to, due to permissions error, symlink python. It has also been separated to python2 and python3 with pip2 and pip3 respectively. Copy/paste the error log to Google for solution.
