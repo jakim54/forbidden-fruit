@@ -18,6 +18,8 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 
 ## Docs, Articles, & Snippets
 
+* Ultimate VIMrc: https://github.com/amix/vimrc
+* VIM Cheatsheet: https://vim.rtorr.com
 * Hitchhiker's Guide to Python: http://docs.python-guide.org/en/latest/
 * Full Stack Python: https://www.fullstackpython.com/table-of-contents.html
 * uhub/aweome-python: https://github.com/uhub/awesome-python
@@ -42,6 +44,8 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 To be updated...
 
 ## Tutorials
+
+* Interactive VIM tutorial: http://www.openvim.com/
 * VIM tutorials from fullstackpython.com: https://www.fullstackpython.com/vim.html
 * Homebrew Cheatsheet: https://devhints.io/homebrew
 * Real Python Full-Stack Tutorials: https://realpython.com/blog/
