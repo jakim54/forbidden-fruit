@@ -47,6 +47,7 @@ To be updated...
 
 * Interactive VIM tutorial: http://www.openvim.com/
 * VIM tutorials from fullstackpython.com: https://www.fullstackpython.com/vim.html
+* ZSH Completion Script: http://mads-hartmann.com/2017/08/06/writing-zsh-completion-scripts.html
 * Homebrew Cheatsheet: https://devhints.io/homebrew
 * Real Python Full-Stack Tutorials: https://realpython.com/blog/
 
