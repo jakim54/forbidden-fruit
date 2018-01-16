@@ -10,3 +10,12 @@ print("Parenthesis" + "ConCat")
 question = "Is this a variable?"
 # this is a comment. cmd + ?
 print(question)
+
+# Classic Input/Output Demonstration
+
+greeting = "Hello"
+name = input("Please enter your name")
+print(greeting + ' ' + name)
+
+splitString = "This string has been\nsplit over\nseveral\lines"
+print("Check if this fixed the JEDI autocomplete issues regarding the left parenthesis")
