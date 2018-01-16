@@ -14,8 +14,15 @@ print(question)
 # Classic Input/Output Demonstration
 
 greeting = "Hello"
-name = input("Please enter your name")
+name = input("Please enter your name: ")
 print(greeting + ' ' + name)
 
-splitString = "This string has been\nsplit over\nseveral\lines"
-print("Check if this fixed the JEDI autocomplete issues regarding the left parenthesis")
+splitString = "This string has been\nsplit over\nseveral\nlines"
+print(splitString)
+
+print('The pet owner said "Parenthesis within single quotes without escaping works!"')
+print("This one is within a double quote using \"backslash before and after\"")
+
+# Triple single/double quotes to escape characters also works and is the best one?
+print('''Yooo''')
+print("""Yooo""")
