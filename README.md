@@ -38,6 +38,7 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 
 * Learn VIM: https://vim.swaroopch.com/preface.html
 * Learn Python: https://python.swaroopch.com/
+* Goalkicker: http://goalkicker.com/
 
 ## Configuration Setups
 
