@@ -22,3 +22,14 @@ print("""January: {2}
     October: {2}
     November: {1}
     December: {2}""".format(28, 30, 31))
+
+# String Formatting Operator deprecated now for Python 3?
+# Similar to Obj-C's.
+print("My age is %d years" % age)
+print("My age is %d %s, %d %s" % (age, "years", 6, "months"))
+
+print("")
+
+# Taste of for loop within the print statement
+for i in range(1, 12):
+    print("No. #2d squared is %4d and cubed is %4d" %(i, i ** 2, i ** 3))
