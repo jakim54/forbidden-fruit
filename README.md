@@ -27,6 +27,7 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 * PDF on FHS: http://www.pathname.com/fhs/pub/fhs-2.3.pdf
 * Z-Shell (ZSH) Manual: http://zsh.sourceforge.net/Doc/Release/index.html#Top
 * Use and Abuse of /usr/local/bin: http://aplawrence.com/Opinion/religion.html
+* Quick Python Cheatsheet: https://www.astro.ufl.edu/~warner/prog/python.html
 
 ## Ideas, Concepts, and Projects
 
@@ -52,6 +53,7 @@ To be updated...
 * ZSH Completion Script: http://mads-hartmann.com/2017/08/06/writing-zsh-completion-scripts.html
 * Homebrew Cheatsheet: https://devhints.io/homebrew
 * Real Python Full-Stack Tutorials: https://realpython.com/blog/
+* PyFormat: https://pyformat.info/
 
 ## Tools
 
