@@ -54,6 +54,8 @@ To be updated...
 * Homebrew Cheatsheet: https://devhints.io/homebrew
 * Real Python Full-Stack Tutorials: https://realpython.com/blog/
 * PyFormat: https://pyformat.info/
+* Bitwise Operators: https://www.youtube.com/watch?v=xNaLrnTuw-M
+* Intro to Lambda, Map, Filter, and Reduce: https://www.youtube.com/watch?v=cKlnR-CB3tk
 
 ## Tools
 
