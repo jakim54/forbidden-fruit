@@ -2,7 +2,7 @@ name = input("Please enter your name: ")
 age = int(input("How old are you, {0}? ".format(name)))
 print(age)
 
-# # simple if/else statement
+# simple if/else statement
 if age >= 18:
     print("You are old enough to vote")
 else:
@@ -74,7 +74,7 @@ if x:
 else:
     print("You did not enter anything")
 
-reversed true and false
+# reversed true and false
 print(not False)
 print(not True)
 
