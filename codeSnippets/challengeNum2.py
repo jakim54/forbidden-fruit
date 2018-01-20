@@ -12,7 +12,7 @@
 #     255
 
 # Your program should work even with an invalid IP address. We're just
-# interested in the number of segmentgs and how long each one is.
+# interested in the number of segments and how long each one is.
 
 # Once you have a working program, test for these:
 #     .123.45.678.91
@@ -27,3 +27,6 @@
 # the approach we're looking for here.
 
 # TODO:
+
+# receivedData = '127.0.0.1', '.192.168.0.1', '10.0.123456.255', '172.16', '255'
+# testData = '.123.45.678.91', '123.4567.8.9', '123.156.289.10123456', '10.10t.10.10', '12.9.34.6.12.90', ''
