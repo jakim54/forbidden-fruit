@@ -60,6 +60,10 @@ To be updated...
 * Intro to Lambda, Map, Filter, and Reduce: https://www.youtube.com/watch?v=cKlnR-CB3tk
 * PLEAC: http://pleac.sourceforge.net/
 * Python - PLEAC: http://pleac.sourceforge.net/pleac_python/index.html
+* Hour Of Python: https://hourofpython.com/
+* REGEX on Python: https://www.machinelearningplus.com/python-regex-tutorial-examples/
+* Checkio: https://checkio.org/
+* Official Python tutorial: https://docs.python.org/3/tutorial/index.html
 
 ## Tools
 
