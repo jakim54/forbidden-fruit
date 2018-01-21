@@ -56,6 +56,8 @@ To be updated...
 * PyFormat: https://pyformat.info/
 * Bitwise Operators: https://www.youtube.com/watch?v=xNaLrnTuw-M
 * Intro to Lambda, Map, Filter, and Reduce: https://www.youtube.com/watch?v=cKlnR-CB3tk
+* PLEAC: http://pleac.sourceforge.net/
+* Python - PLEAC: http://pleac.sourceforge.net/pleac_python/index.html
 
 ## Tools
 
@@ -64,6 +66,7 @@ To be updated...
 * Alfred: https://www.alfredapp.com/
 * Spectacle: https://www.spectacleapp.com/
 * Hatch | A modern project, package, and virtual environment manager for Python: https://github.com/ofek/hatch
+* Spaceship ZSH 3.0: https://medium.com/@denysdovhan/meet-spaceship-v3-0-73587489d66e
 
 ## Developers
 
