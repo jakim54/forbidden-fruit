@@ -18,6 +18,7 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 
 ## Docs, Articles, & Snippets
 
+* datatau: http://www.datatau.com/
 * Ultimate VIMrc: https://github.com/amix/vimrc
 * VIM Cheatsheet: https://vim.rtorr.com
 * Hitchhiker's Guide to Python: http://docs.python-guide.org/en/latest/
