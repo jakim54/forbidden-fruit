@@ -18,6 +18,7 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 
 ## Docs, Articles, & Snippets
 
+* What Does It Take To Be An Expert At Python: https://github.com/austin-taylor/code-vault/blob/master/python_expert_notebook.ipynb
 * datatau: http://www.datatau.com/
 * Ultimate VIMrc: https://github.com/amix/vimrc
 * VIM Cheatsheet: https://vim.rtorr.com
