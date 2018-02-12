@@ -27,7 +27,7 @@
 
 # My initial solution:
 # Misunderstood the assignment, counting lines per segment and not overall.
-addressIP = str(input("Insert IP address here: "))
+addressIP = input("Insert IP address here: ")
 lengthOfAddress = len(addressIP)
 segmentCount = 0
 
@@ -39,22 +39,21 @@ else:
             segmentCount += 1
 
     print("{0} is {1} count long and has {2} total segments.".format(addressIP, lengthOfAddress, segmentCount))
+# TODO: separate the char count to each segment and refactor so that the if/else is tucked inside the for loop and not vice versa.
 
 # Master solution:
-# ipAddress = input("Please enter an IP Address: ")
-# character = ""
-# segment = 1
-# segmentLength = 0
+ipAddress = input("Please enter an IP Address: ")
+character = ""
+segment = 1
+segmentLength = 0
 
-# for character in ipAddress:
-#     if character == '.':
-#         print("Segment {0} contains {1} characters.".format(segment, segmentLength))
-#         segment += 1
-#         segmentLength = 0
-#     else:
-#         segmentLength += 1
+for character in ipAddress:
+    if character == '.':
+        print("Segment {0} contains {1} characters.".format(segment, segmentLength))
+        segment += 1
+        segmentLength = 0
+    else:
+        segmentLength += 1
 
-# if character != '.':
-#     print("Segment {0} contains {1} characters.".format(segment, segmentLength))
-
-# Refactored solution
+if character != '.':
+    print("Segment {0} contains {1} characters.".format(segment, segmentLength))

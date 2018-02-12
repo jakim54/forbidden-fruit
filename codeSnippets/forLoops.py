@@ -45,3 +45,15 @@ for i in range(1, 12):
         print("{1} times {0} is {2}".format(i, j, i * j))
     # print("===============")
     print('')
+
+simpleList = 0
+
+for i in range(0, 20):
+    if simpleList == 0:
+        print("simpleList had 0, now it's 1")
+        simpleList += 1
+        print(simpleList)
+    else:
+        print("Else route was taken")
+        simpleList += 1
+        print(simpleList)
