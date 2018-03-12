@@ -27,6 +27,7 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 * Full Stack Python: https://www.fullstackpython.com/table-of-contents.html
 * uhub/aweome-python: https://github.com/uhub/awesome-python
 * vinta/awesome-python: https://github.com/vinta/awesome-python
+* vinta/awesome-python: https://awesome-python.com/
 * PDF on FHS: http://www.pathname.com/fhs/pub/fhs-2.3.pdf
 * Z-Shell (ZSH) Manual: http://zsh.sourceforge.net/Doc/Release/index.html#Top
 * Use and Abuse of /usr/local/bin: http://aplawrence.com/Opinion/religion.html
@@ -45,6 +46,9 @@ A shared, public repo for anyone to take a gander into my journey of learning Py
 * Learn VIM: https://vim.swaroopch.com/preface.html
 * Learn Python: https://python.swaroopch.com/
 * Goalkicker: http://goalkicker.com/
+* Free Python Books: https://pythonbooks.revolunet.com/
+* How to Think Like a Computer Scientist: http://interactivepython.org/runestone/static/thinkcspy/index.html
+* Automate The Boring Stuff With Python: https://automatetheboringstuff.com/
 
 ## Configuration Setups
 
